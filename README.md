@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year B.Tech Computer Science and Engineering student at BML Munjal University. I am seeking opportunities to collaborate on web design and web page development activities. I am currently learning and building skills in areas such as Artificial Intelligence and Machine Learning, Big Data Analytics, Software Engineering, and Database Management Systems. I have worked on projects including Sign Language Recognition, a Humanoid Robotic Arm, and Artistry Fusion(E Commerce Website).
+I am a fourth-year B.Tech Computer Science and Engineering student at BML Munjal University. I am seeking opportunities to collaborate on web design and web page development activities. I am currently learning and building skills in areas such as Artificial Intelligence and Machine Learning, Big Data Analytics, Software Engineering, and Database Management Systems. I have worked on projects including Sign Language Recognition, a Humanoid Robotic Arm, and Artistry Fusion(E Commerce Website).
 
 
 ## 🌐 Socials:
