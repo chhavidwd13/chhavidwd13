@@ -1,6 +1,25 @@
 # 💫 About Me:
-I am a fourth-year B.Tech Computer Science and Engineering student at BML Munjal University. I am seeking opportunities to collaborate on web design and web page development activities. I am currently learning and building skills in areas such as Artificial Intelligence and Machine Learning, Big Data Analytics, Software Engineering, and Database Management Systems. I have worked on projects including Sign Language Recognition, a Humanoid Robotic Arm, and Artistry Fusion(E Commerce Website).
+# Hi, I'm Chhavi Dwivedi 👋
 
+🎓 Fourth-year B.Tech CSE (Data Science & AI) student at BML Munjal University.
+
+💡 Interested in Artificial Intelligence, Machine Learning, Generative AI, NLP, Data Analytics, and Software Development.
+
+🚀 Currently exploring:
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs) & RAG
+- Data Analytics & Big Data
+- Software Engineering
+- Database Management Systems
+
+🔨 Projects:
+- HealthLens AI (Multimodal Healthcare Assistant)
+- Mental Health Detection using NLP
+- Sign Language & Braille Recognition System
+- Humanoid Robotic Arm
+- Artistry Fusion (E-Commerce Platform)
+
+🌱 Always learning, building, and collaborating on impactful technology solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chhavi-dwivedi-00b992324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:CHHAVI.DWD@GMAIL.COM) 
