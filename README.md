@@ -42,7 +42,7 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,git,github,figma&perline=7" />
 
 ### AI / ML
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv,scikitlearn,keras,matplotlib" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv,scikitlearn,matplotlib" />
 
 ### GenAI & Others
 
