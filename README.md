@@ -61,6 +61,7 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 ---
 
 ## 🚀 Featured Projects
+  <h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Tech |
 |---------|------|
@@ -73,7 +74,7 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 ---
 
 ## 💼 Experience
-
+  <h2 align="center">💼 Experience</h2>
 | Company | Role | Tech |
 |---------|------|------|
 | 🧠 **NIELIT** | AI/ML Intern | Python • ML • SQLite • Tkinter |
@@ -82,7 +83,7 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 ---
 
 ## 🏆 Certifications
-
+  <h2 align="center">🏆 Certifications</h2>
 <p>
 
 <img src="https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
