@@ -60,38 +60,57 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-| Project | Tech |
-|---------|------|
-| 🏥 **HealthLens AI** | LLMs • RAG • Streamlit • LangChain • FAISS |
-| 🧠 **Mental Health Detection** | NLP • TF-IDF • Machine Learning |
-| 🤟 **Sign Language & Braille Recognition** | OpenCV • CNN • Deep Learning |
-| 🤖 **Humanoid Robotic Arm** | Arduino • Embedded Systems |
-| 🛒 **Artistry Fusion** | MERN Stack |
-</div>
----
 
+<p align="center">
 
-<h2 align="center">💼 Experience</h2>
-<div align="center">
-| Company | Role | Tech |
-|---------|------|------|
-| 🧠 **NIELIT** | AI/ML Intern | Python • ML • SQLite • Tkinter |
-| 🚀 **AETHERY** | Full Stack Intern | React • Node.js • MongoDB • REST APIs |
-</div>
----
+<a href="https://github.com/chhavidwd13/HealthLensAI">
+<img src="https://img.shields.io/badge/🏥_HealthLens_AI-Generative_AI-blueviolet?style=for-the-badge"/>
+</a>
 
+<img src="https://img.shields.io/badge/🧠_Mental_Health-NLP-success?style=for-the-badge"/>
 
-<h2 align="center">🏆 Certifications</h2>
-<div align="center">
-<p>
+<img src="https://img.shields.io/badge/🤟_Sign_&_Braille-Computer_Vision-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_Humanoid_Arm-Robotics-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Coursera-Learn_React-0056D2?style=for-the-badge&logo=coursera"/>
+<img src="https://img.shields.io/badge/🛒_Artistry_Fusion-MERN-red?style=for-the-badge"/>
 
 </p>
-</div>
+---
+<h2 align="center">💼 Experience</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NIELIT-AI%2FML%20Intern-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AETHERY-Full%20Stack%20Intern-7C3AED?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+🧠 <b>NIELIT</b><br>
+Python • Machine Learning • Explainable AI • SQLite • Tkinter
+
+<br><br>
+
+🚀 <b>AETHERY</b><br>
+React • Node.js • Express • MongoDB • REST APIs
+
+</p>
+---
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+
+<a href="YOUR_GOOGLE_AI_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Google-AI%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="YOUR_REACT_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Coursera-Learn%20React-0056D2?style=for-the-badge&logo=coursera"/>
+</a>
+
+</p>
 ---
 
 ## 📊 GitHub Analytics
