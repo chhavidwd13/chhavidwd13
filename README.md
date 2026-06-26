@@ -57,47 +57,81 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 
 </div>
 
----
-
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
-<a href="https://github.com/chhavidwd13/HealthLensAI">
-<img src="https://img.shields.io/badge/🏥_HealthLens_AI-Generative_AI-blueviolet?style=for-the-badge"/>
-</a>
+### 🏥 HealthLens AI
+> **Generative AI • LLMs • RAG • Streamlit**
 
-<img src="https://img.shields.io/badge/🧠_Mental_Health-NLP-success?style=for-the-badge"/>
+Multimodal healthcare assistant for symptom analysis, medical reports, chatbot and image understanding.
 
-<img src="https://img.shields.io/badge/🤟_Sign_&_Braille-Computer_Vision-orange?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/🤖_Humanoid_Arm-Robotics-blue?style=for-the-badge"/>
+<td width="50%">
 
-<img src="https://img.shields.io/badge/🛒_Artistry_Fusion-MERN-red?style=for-the-badge"/>
+### 🧠 Mental Health Detection
+> **NLP • Machine Learning • TF-IDF**
 
-</p>
----
+Multi-class NLP pipeline for stress, anxiety, depression, emotion and eating behaviour analysis.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤟 Sign & Braille Recognition
+> **Computer Vision • CNN • TensorFlow**
+
+Accessibility system for recognizing sign language gestures and Braille characters.
+
+</td>
+
+<td width="50%">
+
+### 🤖 Humanoid Robotic Arm
+> **Arduino • Embedded Systems**
+
+Hardware project focused on mimicking human arm movement using sensors and actuators.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🛒 Artistry Fusion
+> **MERN Stack**
+
+Full-stack e-commerce platform with authentication, product management and responsive UI.
+
+</td>
+</tr>
+</table>
+
 <h2 align="center">💼 Experience</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/NIELIT-AI%2FML%20Intern-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AETHERY-Full%20Stack%20Intern-7C3AED?style=for-the-badge"/>
+🧠 <b>AI/ML Intern</b> @ <b>NIELIT</b>
 
-</p>
+<br>
 
-<p align="center">
-
-🧠 <b>NIELIT</b><br>
-Python • Machine Learning • Explainable AI • SQLite • Tkinter
+<code>Python</code> <code>Machine Learning</code> <code>Explainable AI</code> <code>SQLite</code> <code>Tkinter</code>
 
 <br><br>
 
-🚀 <b>AETHERY</b><br>
-React • Node.js • Express • MongoDB • REST APIs
+🚀 <b>Full Stack Intern</b> @ <b>AETHERY</b>
+
+<br>
+
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>REST APIs</code>
 
 </p>
----
+
 <h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
