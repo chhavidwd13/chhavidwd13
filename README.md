@@ -29,8 +29,7 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 
 ---
 
-## 💻 Tech Arsenal
-
+<h2 align="center">💻 Tech Arsenal</h2>
 <div align="center">
 
 ### Languages
@@ -60,9 +59,8 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 
 ---
 
-## 🚀 Featured Projects
-  <h2 align="center">🚀 Featured Projects</h2>
-
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
 | Project | Tech |
 |---------|------|
 | 🏥 **HealthLens AI** | LLMs • RAG • Streamlit • LangChain • FAISS |
@@ -70,20 +68,22 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 | 🤟 **Sign Language & Braille Recognition** | OpenCV • CNN • Deep Learning |
 | 🤖 **Humanoid Robotic Arm** | Arduino • Embedded Systems |
 | 🛒 **Artistry Fusion** | MERN Stack |
-
+</div>
 ---
 
-## 💼 Experience
-  <h2 align="center">💼 Experience</h2>
+
+<h2 align="center">💼 Experience</h2>
+<div align="center">
 | Company | Role | Tech |
 |---------|------|------|
 | 🧠 **NIELIT** | AI/ML Intern | Python • ML • SQLite • Tkinter |
 | 🚀 **AETHERY** | Full Stack Intern | React • Node.js • MongoDB • REST APIs |
-
+</div>
 ---
 
-## 🏆 Certifications
-  <h2 align="center">🏆 Certifications</h2>
+
+<h2 align="center">🏆 Certifications</h2>
+<div align="center">
 <p>
 
 <img src="https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -91,7 +91,7 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 <img src="https://img.shields.io/badge/Coursera-Learn_React-0056D2?style=for-the-badge&logo=coursera"/>
 
 </p>
-
+</div>
 ---
 
 ## 📊 GitHub Analytics
