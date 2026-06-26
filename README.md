@@ -92,17 +92,6 @@ Accessibility system for recognizing sign language gestures and Braille characte
 
 <td width="50%">
 
-### 🤖 Humanoid Robotic Arm
-> **Arduino • Embedded Systems**
-
-Hardware project focused on mimicking human arm movement using sensors and actuators.
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
 ### 🛒 Artistry Fusion
 > **MERN Stack**
 
@@ -114,23 +103,33 @@ Full-stack e-commerce platform with authentication, product management and respo
 
 <h2 align="center">💼 Experience</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="45%">
 
-🧠 <b>AI/ML Intern</b> @ <b>NIELIT</b>
+### 🧠 NIELIT  
+**AI/ML Intern**
 
-<br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-FFB000?style=flat-square"/>
 
-<code>Python</code> <code>Machine Learning</code> <code>Explainable AI</code> <code>SQLite</code> <code>Tkinter</code>
+</td>
 
-<br><br>
+<td align="center" width="45%">
 
-🚀 <b>Full Stack Intern</b> @ <b>AETHERY</b>
+### 🚀 AETHERY  
+**Full Stack Intern**
 
-<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>REST APIs</code>
-
-</p>
+</td>
+</tr>
+</table>
 
 <h2 align="center">🏆 Certifications</h2>
 
@@ -145,7 +144,6 @@ Full-stack e-commerce platform with authentication, product management and respo
 </a>
 
 </p>
----
 
 ## 📊 GitHub Analytics
 
