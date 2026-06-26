@@ -31,32 +31,32 @@ Building AI-powered products that combine <b>Machine Learning</b>, <b>LLMs</b>, 
 
 ## 💻 Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,nextjs,nodejs,express,django,mongodb,mysql,firebase,git,github,figma,tensorflow,pytorch"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&perline=6" />
 
-</p>
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tensorflow,pytorch&perline=7" />
 
-<p align="center">
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,git,github,figma&perline=7" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv,scikitlearn,keras,sqlite,arduino"/>
+### AI / ML
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv,scikitlearn,keras,matplotlib" />
 
-</p>
+### GenAI & Others
 
-<p align="center">
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-F97316?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-0466C8?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-00B894?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLTK-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
-</p>
+</div>
 
 ---
 
