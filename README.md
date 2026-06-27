@@ -143,6 +143,11 @@ Full-stack e-commerce platform with authentication, product management and respo
 <img src="https://img.shields.io/badge/Coursera-Learn%20React-0056D2?style=for-the-badge&logo=coursera"/>
 </a>
 
+<a href="YOUR_FORAGE_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Forage-Tata%20GenAI%20Simulation-0A66C2?style=for-the-badge"/>
+</a>
+
+
 </p>
 
 ## 📊 GitHub Analytics
