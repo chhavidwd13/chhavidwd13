@@ -153,26 +153,13 @@ Full-stack e-commerce platform with authentication, product management and respo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=chhavidwd13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
-    alt="Chhavi's GitHub Stats"
-  />
 
-  <img 
-    width="49%" 
-    src="https://streak-stats.demolab.com?user=chhavidwd13&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Chhavi's GitHub Streak"
-  />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chhavidwd13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavidwd13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
 </p>
 
-<p align="center">
-  <img 
-    width="42%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavidwd13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Chhavi's Top Languages"
-  />
-</p>
 
 ## ⚡ Developer Console
 
