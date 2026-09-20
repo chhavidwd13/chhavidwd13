@@ -154,11 +154,12 @@ Full-stack e-commerce platform with authentication, product management and respo
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chhavidwd13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chhavidwd13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavidwd13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chhavidwd13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 
 ## ⚡ Developer Console
